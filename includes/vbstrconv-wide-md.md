@@ -1,0 +1,1 @@
+Die Konvertierung kann die normalisierungs Form C auch dann verwenden, wenn ein Eingabezeichen bereits vollständig ist. Beispielsweise wird die Zeichenfolge "は ゙" (die bereits vollständig Breite ist) zu "ば" normalisiert. Siehe [Unicode-normalisierungs Formulare](https://unicode.org/reports/tr15).
